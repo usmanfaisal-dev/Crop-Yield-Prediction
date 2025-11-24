@@ -48,6 +48,17 @@ The models were evaluated using **Mean Absolute Error (MAE)** and **R² Score**.
 | Gradient Boosting Regressor (GBR)| 25,234.71      | 0.7681   |
 | XGBoost Regressor (XGB) | 8,549.99               | 0.9694   |
 
+## How to Run
+1. **Unzip the folder**:  
+   - Right-click → Extract All → Choose destination folder.  
+
+2. **Install required packages**:  
+   - Open a terminal or command prompt.  
+   - Navigate to the extracted folder.  
+   - Run:  
+   ```bash
+   pip install -r requirements.txt
+
 > **Note:** Random Forest and KNN perform best on this dataset.
 
 ---
