@@ -52,5 +52,4 @@ The models were evaluated using **Mean Absolute Error (MAE)** and **R² Score**.
 
 ---
 
-## Folder Structure
 
